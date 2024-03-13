@@ -20,4 +20,13 @@ console.log(Naturalname,age,price,X,Y);//run all over code here
 
 // eg - we can writing staring with  _, string, a-b..
 
-// eg - what we can't do in any 
+// eg - what we can't do in any sinari - o which we can't write variable name staring with a no.
+
+const userId = hvfhsvfhshvf
+let name = 'Ayush Thakur'
+let age = 19
+let where_He_live = 'Delhi'
+let totalPrice = 1000;
+
+// Eg of error
+var newage = 24;
